@@ -10,7 +10,7 @@
     "next": "^9.5.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-markdown": "^5.0.2",
+    "react-markdown": "^5.0.2"
   },
   "devDependencies": {
     "babel-eslint": "^10.1.0",
